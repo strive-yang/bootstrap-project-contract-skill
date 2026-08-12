@@ -1,0 +1,7 @@
+interface:
+  display_name: "Agent Repository Bootstrap"
+  short_description: "Choose the lowest sufficient Agent contract"
+  default_prompt: "Use $bootstrap-project-contract to select and establish the lowest sufficient Agent contract for this repository."
+
+policy:
+  allow_implicit_invocation: false
